@@ -1,0 +1,2 @@
+Font key='F3' base='MPDFAA+FreeSansBold' win='Arial' widths=0 toUnicode=65536
+Font key='F2' base='MPDFAA+FreeSans' win='Arial' widths=0 toUnicode=65536
